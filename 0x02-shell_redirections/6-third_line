@@ -1,2 +1,2 @@
 #!/bin/bash
-home -n 3 iacta | tail -n  1
+home -n 3 iacta | tail -n 1

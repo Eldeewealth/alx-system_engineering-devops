@@ -1,2 +1,2 @@
 #!/bin/bash
-echo 'example.com' | rot13 
+echo 'Everyone is a proponent of strong encryption.' | rot13 
